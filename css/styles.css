@@ -74,7 +74,7 @@ body {
 
 @media screen and (min-width:768px) {
     .grid {
-        gap: 2rem;
+        gap: 3rem;
     }
 }
 
@@ -146,6 +146,7 @@ body {
         width: 100%;
         padding: 1rem 0 1rem 3rem;
         outline: none;
+        transition: all 0.2s;
     }
     
     
@@ -159,7 +160,7 @@ body {
         font-style: italic;
         color: var(--Light-Red);
         margin-bottom: 0.7rem;
-        /* display: none; */
+        display: none;
     }
     
     .block__content .input-group button {
@@ -234,7 +235,7 @@ body {
 *****************/
 .block__image-container .block__image {
     width: 100%;
-    padding: 2rem;
+    padding: 2.5rem;
 }
 
 
