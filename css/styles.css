@@ -264,6 +264,7 @@ body {
     justify-content: center;
     width: 3rem;
     cursor: pointer;
+    transition: all 0.2s;
 }
 
 .block__footer .container .icon-container:hover {
