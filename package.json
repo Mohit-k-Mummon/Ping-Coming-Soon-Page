@@ -1,0 +1,22 @@
+{
+  "name": "ping-coming-soon-page-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Ping coming soon page coding challenge](./design/desktop-preview.jpg)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit-k-Mummon/Ping-Coming-Soon-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohit-k-Mummon/Ping-Coming-Soon-Page/issues"
+  },
+  "homepage": "https://github.com/Mohit-k-Mummon/Ping-Coming-Soon-Page#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
